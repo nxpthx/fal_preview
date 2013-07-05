@@ -1,0 +1,2 @@
+# cat=basic; type=input; label= List of file extensions supported for preview
+file_ext_preview_supported = gz,tar,exe,zip
